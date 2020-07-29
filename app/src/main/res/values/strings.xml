@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="email">Email</string>
+    <string name="nam">Nam</string>
+    <string name="nu">Nữ</string>
+    <string name="gioitinh">giới tính</string>
+    <string name="chapnhan">Chấp nhận</string>
+    <string name="huy">Hủy</string>
+    <string name="ten">Tên</string>
+</resources>
